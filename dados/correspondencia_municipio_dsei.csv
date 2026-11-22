@@ -1,0 +1,185 @@
+﻿cod_mun_ibge,nome_municipio,uf,dsei,peso,fonte,confianca,nota,n_estab_indigenas,n_ais_aisan
+1100015,Alta Floresta D'Oeste,RO,Porto Velho,,sugestao Claude - CONFIRMAR no PDSI,baixa,Pode ser Vilhena,7,30
+1100049,Cacoal,RO,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,alta,,12,53
+1100072,Corumbiara,RO,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1100098,Espigão D'Oeste,RO,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,alta,,4,6
+1100106,Guajará-Mirim,RO,Porto Velho,,sugestao Claude - CONFIRMAR no PDSI,alta,,7,61
+1100114,Jaru,RO,Porto Velho,,sugestao Claude - CONFIRMAR no PDSI,media,,3,10
+1100122,Ji-Paraná,RO,Porto Velho,,sugestao Claude - CONFIRMAR no PDSI,baixa,Pode ser Vilhena; conferir polo base Ji-Parana,6,4
+1100189,Pimenta Bueno,RO,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,media,,2,2
+1100205,Porto Velho,RO,Porto Velho,,sugestao Claude - CONFIRMAR no PDSI,alta,,6,16
+1100304,Vilhena,RO,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,37
+1100338,Nova Mamoré,RO,Porto Velho,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,0
+1100924,Chupinguaia,RO,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,media,,2,3
+1200054,Assis Brasil,AC,Alto Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,24
+1200203,Cruzeiro do Sul,AC,Alto Rio Juruá,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,20
+1200302,Feijó,AC,Alto Rio Juruá,,sugestao Claude - CONFIRMAR no PDSI,media,,1,55
+1200328,Jordão,AC,Alto Rio Juruá,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,13
+1200336,Mâncio Lima,AC,Alto Rio Juruá,,sugestao Claude - CONFIRMAR no PDSI,alta,,4,29
+1200344,Manoel Urbano,AC,Alto Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,6
+1200351,Marechal Thaumaturgo,AC,Alto Rio Juruá,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,30
+1200393,Porto Walter,AC,Alto Rio Juruá,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,7
+1200401,Rio Branco,AC,Alto Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,7
+1200435,Santa Rosa do Purus,AC,Alto Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,5
+1200500,Sena Madureira,AC,Alto Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,7
+1200609,Tarauacá,AC,Alto Rio Juruá,,sugestao Claude - CONFIRMAR no PDSI,media,,1,52
+1300029,Alvarães,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,1,3
+1300060,Amaturá,AM,Alto Rio Solimões,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,37
+1300086,Anamã,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,4
+1300201,Atalaia do Norte,AM,Vale do Javari,,sugestao Claude - CONFIRMAR no PDSI,alta,,32,28
+1300300,Autazes,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,60
+1300409,Barcelos,AM,Alto Rio Negro,,sugestao Claude - CONFIRMAR no PDSI,alta,,20,6
+1300508,Barreirinha,AM,Parintins,,sugestao Claude - CONFIRMAR no PDSI,alta,,5,52
+1300607,Benjamin Constant,AM,Alto Rio Solimões,,sugestao Claude - CONFIRMAR no PDSI,alta,,7,86
+1300631,Beruri,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,media,,1,19
+1300706,Boca do Acre,AM,Alto Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,media,,1,6
+1300805,Borba,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,media,,3,70
+1301001,Carauari,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,1,1
+1301100,Careiro,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,22
+1301209,Coari,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,9
+1301407,Eirunepé,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,2,2
+1301506,Envira,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,0
+1301605,Fonte Boa,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,1,13
+1301704,Humaitá,AM,Porto Velho,,sugestao Claude - CONFIRMAR no PDSI,media,Polo base Humaita costuma ser do DSEI Porto Velho (atende AM),4,24
+1301902,Itacoatiara,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,media,,1,8
+1301951,Itamarati,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1302108,Japurá,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1302207,Juruá,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,1,3
+1302306,Jutaí,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,2,21
+1302405,Lábrea,AM,Médio Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,alta,,14,51
+1302504,Manacapuru,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,10
+1302553,Manaquiri,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,13
+1302603,Manaus,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,alta,,12,19
+1302702,Manicoré,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,media,,3,43
+1302801,Maraã,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,media,,1,3
+1302900,Maués,AM,Parintins,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,18
+1303007,Nhamundá,AM,Parintins,,sugestao Claude - CONFIRMAR no PDSI,media,,3,15
+1303106,Nova Olinda do Norte,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,media,,1,3
+1303403,Parintins,AM,Parintins,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,12
+1303502,Pauini,AM,Médio Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,media,,1,24
+1303569,Rio Preto da Eva,AM,Manaus,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1303601,Santa Isabel do Rio Negro,AM,Alto Rio Negro,,sugestao Claude - CONFIRMAR no PDSI,alta,,14,32
+1303700,Santo Antônio do Içá,AM,Alto Rio Solimões,,sugestao Claude - CONFIRMAR no PDSI,alta,,5,36
+1303809,São Gabriel da Cachoeira,AM,Alto Rio Negro,,sugestao Claude - CONFIRMAR no PDSI,alta,,23,148
+1303908,São Paulo de Olivença,AM,Alto Rio Solimões,,sugestao Claude - CONFIRMAR no PDSI,alta,,4,122
+1304062,Tabatinga,AM,Alto Rio Solimões,,sugestao Claude - CONFIRMAR no PDSI,alta,,6,145
+1304104,Tapauá,AM,Médio Rio Purus,,sugestao Claude - CONFIRMAR no PDSI,media,,5,4
+1304203,Tefé,AM,Médio Rio Solimões e Afluentes,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,10
+1304237,Tonantins,AM,Alto Rio Solimões,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,24
+1304302,Urucará,AM,Parintins,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,5
+1400027,Amajari,RR,Leste de Roraima,"0,5",sugestao Claude - CONFIRMAR no PDSI,baixa,"Municipio dividido entre Leste de Roraima e Yanomami: peso 0,5 PROVISORIO",28,74
+1400027,Amajari,RR,Yanomami,"0,5",sugestao Claude - CONFIRMAR no PDSI,baixa,"Municipio dividido entre Leste de Roraima e Yanomami: peso 0,5 PROVISORIO",28,74
+1400050,Alto Alegre,RR,Leste de Roraima,"0,5",sugestao Claude - CONFIRMAR no PDSI,baixa,"Municipio dividido entre Leste de Roraima e Yanomami: peso 0,5 PROVISORIO",28,105
+1400050,Alto Alegre,RR,Yanomami,"0,5",sugestao Claude - CONFIRMAR no PDSI,baixa,"Municipio dividido entre Leste de Roraima e Yanomami: peso 0,5 PROVISORIO",28,105
+1400100,Boa Vista,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,media,Boa Vista tambem sedia o DSEI Yanomami (CASAI). Use correspondencia_estabelecimento_dsei.csv para os estabelecimentos do Yanomami,19,41
+1400159,Bonfim,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,alta,,17,40
+1400175,Cantá,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,9
+1400209,Caracaraí,RR,Yanomami,,sugestao Claude - CONFIRMAR no PDSI,media,,3,8
+1400233,Caroebe,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,baixa,Waimiri-Atroari/Wai Wai: conferir DSEI,6,15
+1400282,Iracema,RR,Yanomami,,sugestao Claude - CONFIRMAR no PDSI,media,,4,12
+1400308,Mucajaí,RR,Yanomami,,sugestao Claude - CONFIRMAR no PDSI,media,,2,4
+1400407,Normandia,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,alta,,10,29
+1400456,Pacaraima,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,1
+1400506,São João da Baliza,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,2
+1400605,São Luiz do Anauá,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,3
+1400704,Uiramutã,RR,Leste de Roraima,,sugestao Claude - CONFIRMAR no PDSI,alta,,71,170
+1500503,Almeirim,PA,Amapá e Norte do Pará,,sugestao Claude - CONFIRMAR no PDSI,media,,4,1
+1500602,Altamira,PA,Altamira,,sugestao Claude - CONFIRMAR no PDSI,alta,,19,142
+1500859,Anapu,PA,Altamira,,sugestao Claude - CONFIRMAR no PDSI,media,,6,10
+1501253,Bannach,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,media,,1,2
+1501402,Belém,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,0
+1501451,Belterra,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,0
+1501576,Bom Jesus do Tocantins,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,4,0
+1502301,Capitão Poço,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1502764,Cumaru do Norte,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,7
+1503606,Itaituba,PA,Rio Tapajós,,sugestao Claude - CONFIRMAR no PDSI,alta,,4,11
+1503754,Jacareacanga,PA,Rio Tapajós,,sugestao Claude - CONFIRMAR no PDSI,alta,,17,59
+1504703,Moju,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,1,2
+1505031,Novo Progresso,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,baixa,,2,18
+1505106,Óbidos,PA,Amapá e Norte do Pará,,sugestao Claude - CONFIRMAR no PDSI,baixa,Zo'e/Wai Wai: conferir se Amapa e Norte do Para ou Guama-Tocantins,9,9
+1505304,Oriximiná,PA,Amapá e Norte do Pará,,sugestao Claude - CONFIRMAR no PDSI,baixa,Wai Wai/Kaxuyana: conferir DSEI,6,33
+1505437,Ourilândia do Norte,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,alta,,6,12
+1505502,Paragominas,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,7,41
+1505551,Pau D'Arco,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,2
+1506138,Redenção,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,2
+1506559,Santa Luzia do Pará,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,2,8
+1506807,Santarém,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,baixa,,3,0
+1507300,São Félix do Xingu,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,media,,7,11
+1507458,São Geraldo do Araguaia,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1507607,São Miguel do Guamá,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,1,1
+1507805,Senador José Porfírio,PA,Altamira,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1508001,Tomé-Açu,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,3,4
+1508050,Trairão,PA,Rio Tapajós,,sugestao Claude - CONFIRMAR no PDSI,media,,1,2
+1508084,Tucumã,PA,Kaiapó do Pará,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,2
+1508100,Tucuruí,PA,Guamá-Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,2,6
+1508357,Vitória do Xingu,PA,Altamira,,sugestao Claude - CONFIRMAR no PDSI,media,,5,8
+1600154,Pedra Branca do Amapari,AP,Amapá e Norte do Pará,,sugestao Claude - CONFIRMAR no PDSI,alta,,6,7
+1600303,Macapá,AP,Amapá e Norte do Pará,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,0
+1600501,Oiapoque,AP,Amapá e Norte do Pará,,sugestao Claude - CONFIRMAR no PDSI,alta,,13,36
+1702109,Araguaína,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+1708205,Formoso do Araguaia,TO,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,Ilha do Bananal (Karaja/Javae) costuma ser do DSEI Araguaia,4,4
+1709005,Goiatins,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,1
+1709500,Gurupi,TO,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,0
+1710508,Itacajá,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,alta,,5,9
+1711902,Lagoa da Confusão,TO,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,,2,0
+1712801,Maurilândia do Tocantins,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,1,1
+1717503,Pium,TO,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,,1,2
+1718865,Santa Fé do Araguaia,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,media,,2,4
+1721000,Palmas,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,0
+1721109,Tocantínia,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,alta,,7,48
+1721208,Tocantinópolis,TO,Tocantins,,sugestao Claude - CONFIRMAR no PDSI,alta,,5,16
+2100600,Amarante do Maranhão,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,8,62
+2100873,Araguanã,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,0
+2100956,Arame,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,50
+2101608,Barra do Corda,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,15,31
+2102002,Bom Jardim,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,5,19
+2102036,Bom Jesus das Selvas,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,4
+2102325,Buriticupu,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,1
+2103158,Centro do Guilherme,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,0
+2104081,Fernando Falcão,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,12
+2104800,Grajaú,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,7,62
+2105302,Imperatriz,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,0
+2105476,Jenipapo dos Vieiras,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,7,31
+2107001,Montes Altos,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,2
+2111300,São Luís,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,Sede; todo o MA e do DSEI Maranhao,3,233
+2114007,Zé Doca,MA,Maranhão,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,0
+5100201,Água Boa,MT,Xavante,,sugestao Claude - CONFIRMAR no PDSI,media,,2,3
+5101407,Aripuanã,MT,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,media,,10,20
+5101605,Barão de Melgaço,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,1
+5101704,Barra do Bugres,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,alta,,1,6
+5101803,Barra do Garças,MT,Xavante,,sugestao Claude - CONFIRMAR no PDSI,alta,,8,64
+5101902,Brasnorte,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,media,,15,29
+5102603,Campinápolis,MT,Xavante,,sugestao Claude - CONFIRMAR no PDSI,alta,,6,102
+5102637,Campo Novo do Parecis,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,5
+5102702,Canarana,MT,Xingu,,sugestao Claude - CONFIRMAR no PDSI,alta,,6,10
+5103205,Colíder,MT,Kaiapó do Mato Grosso,,sugestao Claude - CONFIRMAR no PDSI,alta,,2,0
+5103304,Comodoro,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,baixa,,8,6
+5103353,Confresa,MT,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,,1,1
+5103361,Conquista D'Oeste,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,baixa,,3,2
+5103379,Cotriguaçu,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,1
+5103403,Cuiabá,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,0
+5103700,Feliz Natal,MT,Xingu,,sugestao Claude - CONFIRMAR no PDSI,media,,2,9
+5103858,Gaúcha do Norte,MT,Xingu,,sugestao Claude - CONFIRMAR no PDSI,alta,,11,34
+5103908,General Carneiro,MT,Xavante,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,4
+5105101,Juara,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,baixa,,11,18
+5105150,Juína,MT,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,media,,5,36
+5105309,Luciara,MT,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,,1,3
+5105580,Marcelândia,MT,Xingu,,sugestao Claude - CONFIRMAR no PDSI,media,,1,6
+5105903,Nobres,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,5
+5106174,Nova Nazaré,MT,Xavante,,sugestao Claude - CONFIRMAR no PDSI,media,,2,0
+5106240,Nova Ubiratã,MT,Xingu,,sugestao Claude - CONFIRMAR no PDSI,media,,1,5
+5106307,Paranatinga,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,baixa,"Municipio pode dividir Cuiaba (Bakairi), Xavante e Xingu: avaliar pesos",6,27
+5106422,Peixoto de Azevedo,MT,Kaiapó do Mato Grosso,,sugestao Claude - CONFIRMAR no PDSI,media,,1,0
+5106828,Porto Esperidião,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,media,,1,9
+5107065,Querência,MT,Xingu,,sugestao Claude - CONFIRMAR no PDSI,alta,,8,30
+5107180,Ribeirão Cascalheira,MT,Xavante,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,5
+5107578,Rondolândia,MT,Vilhena,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,2
+5107602,Rondonópolis,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,alta,,3,14
+5107776,Santa Terezinha,MT,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,,1,11
+5107859,São Félix do Araguaia,MT,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,alta,Tambem ha Xavante (Maraiwatsede) na regiao: avaliar peso,4,19
+5107875,Sapezal,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,media,,4,4
+5107909,Sinop,MT,Kaiapó do Mato Grosso,,sugestao Claude - CONFIRMAR no PDSI,baixa,,1,0
+5107958,Tangará da Serra,MT,Cuiabá,,sugestao Claude - CONFIRMAR no PDSI,alta,,8,26
+5202502,Aruanã,GO,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,,1,1
+5208707,Goiânia,GO,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,baixa,Provavel CASAI; nao e territorio,1,0
+5218904,Rubiataba,GO,Araguaia,,sugestao Claude - CONFIRMAR no PDSI,media,,1,3
